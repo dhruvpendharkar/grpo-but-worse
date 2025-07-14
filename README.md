@@ -1,0 +1,1 @@
+I'm trying to make a GRPO variant which will probably work very poorly but I want to see what happens because it is interesting to me.
